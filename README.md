@@ -2,20 +2,20 @@
 
 
 
-### Задание 1
+### Задание 1 
+![](images/docker_ps.png)
 
-![](images/gitlab_dashboard.png)
+![](images/gitlab_dashboard.jpg)
 
-![](images/gitlab_home.png)
+![](images/gitlab_home.jpg)
 
-![](images/Home.png)
+![](images/Home.jpg)
 
-![](images/Runner.png)
+![](images/Runner.jpg)
 
-![](images/Runner_active.png)
+![](images/Runner_active.jpg)
 
 ### Задание 2
+![](images/cml.jpg)
 
-![](images/cml.png)
-
-![](images/status.png)
+![](images/status.jpg)
