@@ -3,6 +3,7 @@
 
 
 ### Задание 1
+
 ![](images/docker_ps.png)
 
 ![](images/gitlab_dashboard.png)
