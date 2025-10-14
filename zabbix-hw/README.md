@@ -1,13 +1,15 @@
-# Домашнее задание к занятию "`Система мониторинга Zabbix`" - `Бурыкин Кирилл`
+# Домашнее задание к занятию "`Система мониторинга Zabbix. Часть 2`" - `Бурыкин Кирилл`
 
 
 
 ### Задание 1
-![cmd](https://github.com/user-attachments/assets/22258b16-af61-4641-9e21-030071d75e35)
-![zabbix](https://github.com/user-attachments/assets/98b0c9de-afe9-43ac-8d1e-3423b5d65c09)
-![zabbix-login](https://github.com/user-attachments/assets/37cbc853-0a85-4213-a53a-c0aab3124086)
+![zadaniye](https://github.com/user-attachments/assets/732c8ec8-4cf9-47ed-b36e-17ab45917c88)
+![zadaniye1](https://github.com/user-attachments/assets/4efb11b3-9dc1-4482-89cf-97057689e6a7)
 
-### Задание 2
-![command](https://github.com/user-attachments/assets/b8dc49aa-752c-48a4-932a-770a6ce31c21)
-![zabbix-server](https://github.com/user-attachments/assets/929d169b-db87-4b80-9299-c19690d36ffc)
-![uzel](https://github.com/user-attachments/assets/7bcafda4-1707-4673-a9d8-b46a9a207857)
+### Задание 2-3
+![zadaniye2](https://github.com/user-attachments/assets/67afca08-5e2c-447a-b85b-09644550f8a3)
+![zadaniye2 1](https://github.com/user-attachments/assets/b97e01ce-ba7c-4766-a9b3-85940529c41f)
+![zadaniye2 2](https://github.com/user-attachments/assets/7b584fa7-7110-4f62-b0b4-dc9ea17a0e98)
+
+### Задание 4
+![zadaniye4](https://github.com/user-attachments/assets/2b72a998-0096-489c-b9d0-6171129b79ab)
