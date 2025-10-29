@@ -2,7 +2,7 @@
 
 
 
-### Задание 1
+# Задание 1
 ![zadaniye](https://github.com/user-attachments/assets/732c8ec8-4cf9-47ed-b36e-17ab45917c88)
 ![zadaniye1](https://github.com/user-attachments/assets/4efb11b3-9dc1-4482-89cf-97057689e6a7)
 
