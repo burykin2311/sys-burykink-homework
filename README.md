@@ -1,20 +1,17 @@
-# Домашнее задание к занятию "`Кластеризация и балансировка нагрузки`" - `Бурыкин Кирилл`
+# Домашнее задание к занятию "`Резервное копирование`" - `Бурыкин Кирилл`
 
 
 
 ### Задание 1 
-![1](https://github.com/user-attachments/assets/0e7ac2d8-2792-4304-97f6-a27b69bbdbc8)
+![1](https://github.com/user-attachments/assets/fa69d10a-5d10-4dc6-99cb-ba203a0e18cd)
 
-![2](https://github.com/user-attachments/assets/9c0ea5b5-29dc-48ea-9159-cc6aacee3f48)
-
-![3](https://github.com/user-attachments/assets/6f7dbf59-8ddd-4952-a23c-5a6c97c13610)
+<img width="623" height="24" alt="2" src="https://github.com/user-attachments/assets/5d0245ea-1985-412e-954b-25bc861326d7" />
 
 ### Задание 2
-![4](https://github.com/user-attachments/assets/379f9e13-f0ab-4970-b912-2b039be31030)
+<img width="350" height="141" alt="3" src="https://github.com/user-attachments/assets/8d1fbba7-f73f-4feb-ac68-a569259845f3" />
 
-![5](https://github.com/user-attachments/assets/342b293b-3701-4813-be67-7162cba5321d)
+<img width="403" height="317" alt="4" src="https://github.com/user-attachments/assets/6ed47697-e11d-4a65-a4fb-6f2ad2e62080" />
 
-#### sudo nano /etc/haproxy/haproxy.cfg
-![6](https://github.com/user-attachments/assets/9878b33f-3ffe-4986-8234-7d48b143d947)
+<img width="592" height="215" alt="5" src="https://github.com/user-attachments/assets/db74a949-3a91-475f-8035-7c64b292d1c2" />
 
-![7](https://github.com/user-attachments/assets/84d067dd-7888-44b8-b9a9-eb4a4c5f7c8e)
+<img width="590" height="237" alt="6" src="https://github.com/user-attachments/assets/ea6efec7-f9ab-4ed8-9d4d-c9f51f37cc39" />
