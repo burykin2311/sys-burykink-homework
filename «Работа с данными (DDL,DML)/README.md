@@ -9,3 +9,7 @@
 <img width="262" height="509" alt="image" src="https://github.com/user-attachments/assets/c22cce0b-f0b8-4139-8ebf-6c1149b9838e" />
 
 ### Задание 2
+
+<img width="382" height="566" alt="image" src="https://github.com/user-attachments/assets/f49cb478-984f-4b8b-930b-c9cc2628166a" />
+
+<img width="445" height="403" alt="image" src="https://github.com/user-attachments/assets/efad23d1-248d-4020-8995-3df12dd69cde" />
