@@ -6,4 +6,6 @@
 
 <img width="1482" height="670" alt="image" src="https://github.com/user-attachments/assets/9312db52-05d4-41bc-b156-04586229e32e" />
 
+<img width="262" height="509" alt="image" src="https://github.com/user-attachments/assets/c22cce0b-f0b8-4139-8ebf-6c1149b9838e" />
+
 ### Задание 2
