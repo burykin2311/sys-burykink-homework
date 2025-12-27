@@ -16,3 +16,6 @@ nmap -Pn -sV <ip-адресс машины Metasploitable>
    
 3. Samba 3.X — usermap_script Command Execution
    https://www.exploit-db.com/exploits/16320
+
+### Задание 2
+
